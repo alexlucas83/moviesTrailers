@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: grey
+
+}
+html{
+  background-color: grey
+
 }
 
 .App-logo {
@@ -30,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search_bar{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
 }
